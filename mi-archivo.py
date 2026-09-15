@@ -9,7 +9,7 @@ def sumar(a, b):
 
 def main():
     print("Hola, mundo desde Python")
-    saludar("Francisco")
+    saludar("Juan Jose")
     sumar(5, 3)
 
 
